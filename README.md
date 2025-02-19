@@ -61,12 +61,6 @@ Need Matrix:
 [[7, 4, 3], [1, 2, 2], [6, 0, 0], [0, 1, 1], [4, 3, 1]]
 ==================================================
 
-Executing process: P1
-Executing process: P3
-Executing process: P4
-Executing process: P2
-Executing process: P0
-
 ✅ It is a safe sequence.
 The safe sequence is < P0 P1 P2 P3 P4 >
 ```
