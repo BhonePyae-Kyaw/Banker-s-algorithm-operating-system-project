@@ -67,24 +67,9 @@ Executing process: P4
 Executing process: P2
 Executing process: P0
 
-✅ Safe Sequence Found: < P1 P3 P4 P2 P0 >
+✅ It is a safe sequence.
+The safe sequence is < P0 P1 P2 P3 P4 >
 ```
-
-## 🚀 How to Run  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/yourusername/Bankers-Algorithm.git
-   cd Bankers-Algorithm
-   ```
-2. Place the input `.txt` file in the project directory.  
-3. Run the script:  
-   ```sh
-   python bankers_algorithm.py
-   ```
-4. Follow the prompts and enter the file name when requested.  
-
-## 📌 Requirements  
-- Python 3.x  
 
 ## 📌 Future Improvements  
 🔹 Support for **dynamic user input** instead of file input.  
