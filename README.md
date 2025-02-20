@@ -6,7 +6,7 @@ This is a **Python implementation of the Banker's Algorithm**, designed for an *
 - Reads input from a **.txt file** containing:  
   - **Maximum Matrix** (Maximum resource demand per process)  
   - **Allocated Matrix** (Current allocated resources per process)  
-  - **Available Resources** (Total system resources)  
+  - **Resources** (Total system resources)  
 - Displays **step-by-step execution** with four matrices:  
   - **Available Resources**  
   - **Allocated Matrix**  
@@ -45,7 +45,7 @@ The `.txt` file should be structured as follows:
 2 1 1
 0 0 2
 
-# Available Resources
+# Resources
 3 3 2
 ```
 
